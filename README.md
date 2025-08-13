@@ -1,3 +1,2 @@
 # Portfolio
-
-My portfolio that I created using Bootstrap
+This is my portfolio which I built using Bootstrap
